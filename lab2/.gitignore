@@ -1,0 +1,12 @@
+# Object files
+*.o
+
+# Libraries
+*.a
+*.so
+
+# Compiled programs
+program
+revertfin
+static_rev
+dynamic_rev
